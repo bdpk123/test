@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="第 1 页" id="-rBXWYMA8vQO4I_JBFDj">
-    <mxGraphModel>
+    <mxGraphModel dx="2072" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SSyrkYJbgdm2HnbKpwL7-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1520" y="510" width="40" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SSyrkYJbgdm2HnbKpwL7-2" value="&lt;b&gt;Patch_embed&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-1550" y="580" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SSyrkYJbgdm2HnbKpwL7-3" value="VSSBLock(0)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1410" y="565" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SSyrkYJbgdm2HnbKpwL7-4" value="VSSBLock(1)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="565" width="90" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
